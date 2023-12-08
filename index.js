@@ -59,7 +59,8 @@ const questions = [
   
   function init() {
     inquirer.prompt(questions).then((inquirerResponses) => {
-      console.log('Generating README...');
+      console.log('Generating a Unique README...');
+      console.log(inquirerResponses)
       writeToFile('README.md', generateMarkdown({ ...inquirerResponses }));
     });
   }
