@@ -1,17 +1,15 @@
-# README.md GENERATOR FOR GITHUB REPO
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Read Me Generator Test for Homework Assignment submission
+
 
 ## Description
 
-readme gen
+To get a good grade on the read me generator 
 
 ## Table of Contents 
 
 * [Installation](#installation)
 
 * [Usage](#usage)
-
-* [License](#license)
 
 * [Contributing](#contributing)
 
@@ -29,24 +27,23 @@ npm i
 
 ## Usage
 
-To efficiently create repos from terminal
+This is being used as a test for homework assignment submission.
 
-## License
 
-This project is licensed under the MIT license.
   
 ## Contributing
 
-Brandon Lopez
+That this is a test for my homework assignment submission so hopefully I can get a good grade! (: 
 
 ## Tests
 
 To run tests, run the following command:
 
 ```
-npm start (but alwasy remmeber to do a NPM INSTALL first [; ])```
+npm test
+```
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at b@b.com. You can find more of my work at [brandon](https://github.com/brandon/).
+If you have any questions about the repo, open an issue or contact me directly at test@test.com. You can find more of my work at [brandontesttestreadme](https://github.com/brandontesttestreadme/).
 
